@@ -113,6 +113,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1 ,CETV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 ,劲爆体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 ,游戏风云
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 #EXTINF:-1 ,先锋户羽
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
 #EXTINF:-1 ,武术世界
@@ -124,4 +128,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 ,哈哈炫动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 #EXTINF:-1 ,金鹰卡通
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 ,动漫秀场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
