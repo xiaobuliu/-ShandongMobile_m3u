@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/xiaobuliu/-ShandongMobile_m3u/master/%E5%B1%B1
 
 4.在"Skins"页面对应的皮肤列表中，选择你正在使用的皮肤（如果有多余的皮肤）。
 
-5.选择"Fonts"子菜单，这将打开一个包含字体设置的窗口。
+5.选择"Fonts"子菜单，这将打开一个包含字体设置的窗口。
 
 6.在"Fonts"窗口中，找到并选择"Arial-Based"选项。
 
