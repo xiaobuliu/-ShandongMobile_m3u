@@ -1,4 +1,4 @@
-一、xstvheadend
+一、tvheadend
 https://imgse.com/i/pFZ47jS
 
 https://raw.githubusercontent.com/xiaobuliu/-ShandongMobile_m3u/master/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A8IPTV201912.m3u
