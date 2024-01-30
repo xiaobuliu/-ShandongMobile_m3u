@@ -105,8 +105,12 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 ,山东农科高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 ,中国教育高清
+#EXTINF:-1 ,CETV-1高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 ,CETV-4高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 ,中国交通高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 ,金鹰纪实高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,纪实人文高清
@@ -127,6 +131,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
 #EXTINF:-1 ,海洋频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 ,法制天地高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
 #EXTINF:-1 ,优漫卡通高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 ,哈哈炫动高清
