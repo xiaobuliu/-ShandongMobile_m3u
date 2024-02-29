@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1综合频道高清
+#EXTINF:-1 ,CCTV-1综合频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 ,CCTV2财经频道高清
+#EXTINF:-1 ,CCTV-2财经频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 ,CCTV-3综艺频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 ,CCTV4中文国际高清
+#EXTINF:-1 ,CCTV-4中文国际高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1 ,CCTV-5体育频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
-#EXTINF:-1 ,CCTV5+体育赛事高清
+#EXTINF:-1 ,CCTV-5+体育赛事高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 ,CCTV-6电影频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 ,CCTV7国防军事高清
+#EXTINF:-1 ,CCTV-7国防军事高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 ,CCTV-8电视剧频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 ,CCTV9记录频道高清
+#EXTINF:-1 ,CCTV-9记录频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 ,CCTV10科教频道高清
+#EXTINF:-1 ,CCTV-10科教频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 ,CCTV-11戏曲频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
-#EXTINF:-1 ,CCTV12社会与法高清
+#EXTINF:-1 ,CCTV-12社会与法高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1 ,CCTV-13新闻频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
