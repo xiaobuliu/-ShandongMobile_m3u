@@ -129,7 +129,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="卫视",都市剧场高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="卫视",海洋频道高清
+#EXTINF:-1 tvg-id="66" tvg-name="海洋频道" tvg-logo="http://images.china.cn/images1/ch/14hyzg/hy-101.jpg" group-title="卫视",海洋频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SITV%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="卫视",法治天地高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
