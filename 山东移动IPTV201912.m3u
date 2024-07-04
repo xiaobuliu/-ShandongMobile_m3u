@@ -105,47 +105,47 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="山东农科" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="卫视",山东农科高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="CETV-1" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CETV1.png" group-title="卫视",CETV-1高清
+#EXTINF:-1 tvg-id="54" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="卫视",CETV-1高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="CETV-4" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CETV4.png" group-title="卫视",CETV-4高清
+#EXTINF:-1 tvg-id="55" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="卫视",CETV-4高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="中国交通" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="卫视",中国交通高清
+#EXTINF:-1 tvg-id="56" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="卫视",中国交通高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="金鹰纪实" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="卫视",金鹰纪实高清
+#EXTINF:-1 tvg-id="57" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="卫视",金鹰纪实高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="纪实人文" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="卫视",纪实人文高清
+#EXTINF:-1 tvg-id="58" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="卫视",纪实人文高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="劲爆体育" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/SITV%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="卫视",劲爆体育高清
+#EXTINF:-1 tvg-id="59" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SITV%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="卫视",劲爆体育高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="魅力足球" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="卫视",魅力足球高清
+#EXTINF:-1 tvg-id="60" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="卫视",魅力足球高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="游戏风云" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="卫视",游戏风云高清
+#EXTINF:-1 tvg-id="61" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="卫视",游戏风云高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="先锋乒羽" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png" group-title="卫视",先锋乒羽高清
+#EXTINF:-1 tvg-id="62" tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png" group-title="卫视",先锋乒羽高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="武术世界" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="卫视",武术世界高清
+#EXTINF:-1 tvg-id="63" tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="卫视",武术世界高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="文物宝库" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="卫视",文物宝库高清
+#EXTINF:-1 tvg-id="64" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="卫视",文物宝库高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="都市剧场" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="卫视",都市剧场高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="海洋频道" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="卫视",海洋频道高清
+#EXTINF:-1 tvg-id="66" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="卫视",海洋频道高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="法治天地" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/SITV%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="卫视",法治天地高清
+#EXTINF:-1 tvg-id="67" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SITV%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="卫视",法治天地高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="金色学堂" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/SITV%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="卫视",金色学堂高清
+#EXTINF:-1 tvg-id="68" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SITV%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="卫视",金色学堂高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="精彩影视" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/SITV%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="卫视",精彩影视高清
+#EXTINF:-1 tvg-id="69" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SITV%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="卫视",精彩影视高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="东方财经" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="卫视",东方财经高清
+#EXTINF:-1 tvg-id="70" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="卫视",东方财经高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="优漫卡通" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="卫视",优漫卡通高清
+#EXTINF:-1 tvg-id="71" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="卫视",优漫卡通高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="哈哈炫动" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="卫视",哈哈炫动高清
+#EXTINF:-1 tvg-id="72" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="卫视",哈哈炫动高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="金鹰卡通" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="卫视",金鹰卡通高清
+#EXTINF:-1 tvg-id="73" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="卫视",金鹰卡通高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="动漫秀场" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="卫视",动漫秀场高清
+#EXTINF:-1 tvg-id="74" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="卫视",动漫秀场高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="卡酷少儿" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="卫视",卡酷少儿高清
+#EXTINF:-1 tvg-id="75" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="卫视",卡酷少儿高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
