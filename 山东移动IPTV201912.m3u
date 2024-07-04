@@ -91,7 +91,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="济南新闻" tvg-logo="http://imgs.logonews.cn/uploads/auto_save_image/2011/12/150139Vf1.jpg_logonews" group-title="卫视",济南新闻高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="山东新闻" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="卫视",山东新闻高清
+#EXTINF:-1 tvg-id="47" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="卫视",山东新闻高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png" group-title="卫视",山东生活高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
