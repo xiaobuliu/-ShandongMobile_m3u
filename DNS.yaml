@@ -91,6 +91,7 @@ payload:
   - DOMAIN,sm2.doh.pub
   - DOMAIN,unfiltered.adguard-dns.com
   - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,1.0.0.1/32
   - IP-CIDR,101.101.101.101/32
   - IP-CIDR,12.159.2.159/32
   - IP-CIDR,136.243.69.38/32
