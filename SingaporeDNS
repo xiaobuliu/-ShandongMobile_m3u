@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,sg.teradns.org
+  - IP-CIDR,103.167.151.201/32
