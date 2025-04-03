@@ -2,6 +2,10 @@ payload:
   - DOMAIN,sg.teradns.org
   - DOMAIN,dot-sg.blahdns.com
   - DOMAIN,doh-sg.blahdns.com
+  - DOMAIN,sg-sin.doh.sb
+  - DOMAIN,sg-sin2.doh.sb
+  - IP-CIDR,165.22.61.129/32
+  - IP-CIDR,92.118.188.53/32
   - IP-CIDR,103.167.151.201/32
   - IP-CIDR,172.67.147.247/32
   - IP-CIDR,104.21.71.180/32
