@@ -1,2 +1,4 @@
 payload:
-  - DOMAIN,uhdnow.com
+  - DOMAIN-KEYWORD,uhdnow,Proxy
+  - DOMAIN-KEYWORD,okemby,Proxy
+  - DOMAIN-KEYWORD,emos,Proxy
