@@ -4,3 +4,4 @@ payload:
   - DOMAIN-KEYWORD,emos,Proxy
   - DOMAIN-KEYWORD,ijavtorrent,Proxy
   - DOMAIN-KEYWORD,bangumi,Proxy
+  - DOMAIN-SUFFIX,xmsl.org,Proxy 
