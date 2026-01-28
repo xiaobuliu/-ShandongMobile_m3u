@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,ijavtorrent,Proxy
   - DOMAIN-KEYWORD,bangumi,Proxy
   - DOMAIN-SUFFIX,xmsl.org,Proxy 
+  - DOMAIN-SUFFIX,xxlb.net,Proxy
