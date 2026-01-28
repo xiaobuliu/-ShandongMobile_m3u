@@ -6,3 +6,4 @@ payload:
   - DOMAIN-KEYWORD,bangumi,Proxy
   - DOMAIN-SUFFIX,xmsl.org,Proxy 
   - DOMAIN-SUFFIX,xxlb.net,Proxy
+  - SRC-IP-CIDR,154.12.52.149/32,Proxy
